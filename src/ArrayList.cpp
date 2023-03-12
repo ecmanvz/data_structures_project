@@ -1,10 +1,8 @@
 /**
 * @file ArrayList.cpp
 * @description Faktöriyel hesaplama
-* @course 1.Öğretim A
-* @assignment 1.Ödev
 * @date 2.08.2022
-* @author Ecem AMANVERMEZ
+* @author Ecem 
 */
 
 
